@@ -1,0 +1,1 @@
+in the controller section create  a function shortenURl uusing a package called NanoId
